@@ -8,7 +8,7 @@ Frontend developer
 
 ### Contacts  
 Warsaw, Poland  
-[Email](mashabogdanoff@gmail.com)  
+**E-mail:** mashabogdanoff@gmail.com  
 **Discord account:** Masha (@MashaBogdanova)
 
 
@@ -34,7 +34,7 @@ Application has a responsive design, for an aesthetic appeal of application I've
 libraries and consulted with UI designer.*
 
 Other projects on [GitHub](github.com/mashabogdanova)  
-[Codewars](https://www.codewars.com/users/MashaBogdanova) tasks
+[Codewars](https://github.com/MashaBogdanova/codewars-coding-problems) tasks
 
 ---
 
