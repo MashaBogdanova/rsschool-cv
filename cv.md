@@ -1,16 +1,28 @@
 # Maria Bogdanova  
 ![avatar](avatar.jpeg)  
-Frontend developer  
-****  
+Frontend developer
+
+
+---
+
+
 ### Contacts  
 Warsaw, Poland  
 [Email](mashabogdanoff@gmail.com)  
 **Discord account:** Masha (@MashaBogdanova)
-****  
+
+
+---
+
+
 I am an enthusiastic, self-motivated, organized and responsible person.
 I am a good timekeeper, always willing to learn new skills.
 I am able to work well both in a team environment as well, as using own initiative.
-****  
+
+
+---
+
+
 ### Pet projects
 #### Social Network
 [GitHub repository is here](https://github.com/MashaBogdanova/way-of-samuraj-project)  
@@ -23,7 +35,9 @@ libraries and consulted with UI designer.*
 
 Other projects on [GitHub](github.com/mashabogdanova)  
 [Codewars](https://www.codewars.com/users/MashaBogdanova) tasks
-****  
+
+---
+
 ### Education
 **JavaScript Algorithms and Data Structures** *freeCodeCamp*  
 2023  
@@ -35,7 +49,9 @@ Other projects on [GitHub](github.com/mashabogdanova)
 2020  
 **Psychology** *Moscow State University*  
 2009 - 2015
-****  
+
+---
+
 ### Skills and languages
 * HTML5, CSS, frameworks (AntD, MUI, Bootstrap)
 * VCS - GIT
