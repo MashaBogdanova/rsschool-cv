@@ -36,3 +36,9 @@ Other projects on [GitHub](github.com/mashabogdanova)
 **Psychology** *Moscow State University*  
 2009 - 2015
 ***
+### Skills and languages
+* HTML5, CSS, frameworks (AntD, MUI, Bootstrap)
+* VCS - GIT
+* React, redux, redux toolkit
+* JavaScript, TypeScript
+* Russian (native), English (B2), Polish (A2)
