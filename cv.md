@@ -24,3 +24,15 @@ libraries and consulted with UI designer.*
 Other projects on [GitHub](github.com/mashabogdanova)  
 [Codewars](https://www.codewars.com/users/MashaBogdanova) tasks
 ***
+### Education
+**JavaScript Algorithms and Data Structures** *freeCodeCamp*  
+2023  
+**Responsive Web Design** *freeCodeCamp*  
+2023  
+**React: Way of the Samurai** *IT-KAMASUTRA*  
+2022  
+**Web Design for Beginners: HTML and CSS** *Stepik*  
+2020  
+**Psychology** *Moscow State University*  
+2009 - 2015
+***
